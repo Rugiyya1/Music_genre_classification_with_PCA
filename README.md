@@ -2,7 +2,9 @@
 The dataset consists of information about various music tracks and their characteristics.										
 
 
-Variable	                      Description      
+
+
+Variable	                     	 Description      
 Tempo	                          Beats per minute (BPM) of the track.              
 Dynamic Range	                  The range between the quietest and loudest parts of a track, typically measured in decibels (dB).            
 Vocal Presence	                The prominence of vocals in a track.                                          
@@ -16,6 +18,8 @@ Metal Frequencies	              The use of distorted guitar sounds, often associ
 Ambient Sound Influence	        The use of ambient sounds in a track, which can add texture and atmospheric elements to the music.
 Instrumental Overlaps	          How different instruments interplay and overlap in a track, indicating the complexity of its instrumental arrangement.
 Genre                          	The categorized genre of the track.
+
+
 
 
 The data contains null labels therefore these values removed and predicted at the end with chosen model
