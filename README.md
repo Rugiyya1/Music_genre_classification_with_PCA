@@ -2,11 +2,11 @@
 The dataset consists of information about various music tracks and their characteristics.										
 
 
-Variable	                      Description
-Tempo	                          Beats per minute (BPM) of the track.
-Dynamic Range	                  The range between the quietest and loudest parts of a track, typically measured in decibels (dB).
-Vocal Presence	                The prominence of vocals in a track.
-Percussion                      Strength	 the intensity and presence of percussion instruments in a track, such as drums or cymbals.
+Variable	                      Description      
+Tempo	                          Beats per minute (BPM) of the track.              
+Dynamic Range	                  The range between the quietest and loudest parts of a track, typically measured in decibels (dB).            
+Vocal Presence	                The prominence of vocals in a track.                                          
+Percussion                      Strength	 the intensity and presence of percussion instruments in a track, such as drums or cymbals.                        
 String Instrument Detection	    The presence and prominence of string instruments like guitars, violins, or cellos in a track.	
 Electronic Element Presence    	The intensity and presence of percussion instruments in a track, such as drums or cymbals.
 Rhythm Complexity	              The complexity and variation in a track's rhythm patterns, reflecting the intricacy of its beat and timing.
